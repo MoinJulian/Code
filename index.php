@@ -11,5 +11,6 @@
     <p>Dies ist eine weitere Website!</p>
     <p>Auf dieser Website zeige ich euch alle unwichtigen Sachen!</p>
     <a href="test.php">Helllo</a>
+    <?php echo 3 ?>
   </body>
 </html>

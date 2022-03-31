@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo 3 ?>
+
 
 </body>
 </html>
